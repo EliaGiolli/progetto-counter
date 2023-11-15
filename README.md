@@ -1,5 +1,7 @@
 # progetto-javascript-basic-giolli-elia
 
+<h2>PROGETTO FINALE CORSO JAVASCRIPT BASICS - GIOLLI ELIA</h2>
+
 Quest'app è stata creata con HTML,CSS e Javascript e simula il funzionamento di un counter. 
 Fa parte del mio master in front-end web development presso la Start2Impact University
 
@@ -13,6 +15,6 @@ il file style.css contiente alcuni stili di base per la pagina web come il backg
 IL file main.js è il vero succo di quest'app poiché mi ha permesso di mettermi alla prova con la creazione di tag html e classi css utilizzando solamente proprietà javascript. Alla fine sono presenti le funzioni con gli eventi per far funzionare il counter nel modo corretto.
 
 
-<h3>come funziona il progetto?</h3>
+<h3>Come funziona il progetto?</h3>
 
 Il funzionamento del counter è molto semplice: ci sono tre pulsanti, rispettivamente per l'incremento, il decremento e il reset del valore che troverete a schermo. Cliccando uno dei pulsanti potrete vedere il valore del counter aumentare o diminuire. Oppure premendo quello al centro potrete riportare il valore a 0

@@ -8,31 +8,41 @@
 
 body{
     background: linear-gradient(to right,green, white, red);
-    height: 1000px;
-    width: 100%;
 }
 
-.mainContainer{
-    height: 50px;
-    width: 200px;
-    margin: 0 auto;
-    margin-top: 250px;
+.container{
+    height: 100px;
+    width: 202px;
+    margin: 250px auto;
     background-color: blue;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-content: center;
 }
-#countLabel{
+.countLabel{
     display: block;
     font-size: 50px;
     text-align: center;
     background-color: white;
 }
 
+.buttons{
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+}
+
 button{
     font-size: 15px;
     background-color: blue;
     color: white;
-    padding: 5px;
+    padding: 20px;
+    margin-right: 5px;
+}
+
+.MouseOverStyle{
+    background-color: navy;
+    color: white;
+    border: 2px solid greenyellow;
 }

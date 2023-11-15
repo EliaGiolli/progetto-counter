@@ -3,23 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Il mio counter con Javascript</title>
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+ 
+    <title>DigitalClock</title>
 </head>
-<body>
-<!--
-<div class="container">
-    <label id="countLabel">0</label>
-    <div class="buttons">
-        <button id="decreaseBtn">decrease</button>  
-        <button id="resetBtn">reset</button>
-        <button id="increaseBtn">increase</button>
-    </div>
+<body class="bg-dark row justify-content-center py-5">
     
-</div>
-
--->
-    
-    <script href="./assets/javascript/main.js"></script>
+<div id="showTime" onload="Mytime()" class="text-light text-center border border-info border-5 py-5 fs-1 col-lg-4"></div>
+    <script src="js/main.js"></script>
 </body>
 </html>

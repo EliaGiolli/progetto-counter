@@ -10,9 +10,9 @@ Fa parte del mio master in front-end web development presso la Start2Impact Univ
 
 Il file index.html è molto semplice: contiene solo i tag essenziali per il funzionamento della pagina web e i tag <style> e <script> per il corretto utilizzo dei file style.css e main.js
 
-il file style.css contiente alcuni stili di base per la pagina web come il background-color e il selettore universale *{}. Questo file contiene inoltre le classi create con javascript che servono a stilizzare tutto ciò che ho creato all'interno del file main.js
+Il file style.css contiente alcuni stili di base per la pagina web come il background-color e il selettore universale *{}. Questo file contiene inoltre le classi create con javascript che servono a stilizzare tutto ciò che ho creato all'interno del file main.js
 
-IL file main.js è il vero succo di quest'app poiché mi ha permesso di mettermi alla prova con la creazione di tag html e classi css utilizzando solamente proprietà javascript. Alla fine sono presenti le funzioni con gli eventi per far funzionare il counter nel modo corretto.
+Il file main.js è il vero succo di quest'app poiché mi ha permesso di mettermi alla prova con la creazione di tag html e classi css utilizzando solamente proprietà javascript. Alla fine sono presenti le funzioni con gli eventi per far funzionare il counter nel modo corretto.
 
 
 <h3>Come funziona il progetto?</h3>

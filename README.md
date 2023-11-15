@@ -1,4 +1,4 @@
-# progetto-javascript-basic-giolli-elia
+# progetto-javascript-basics-giolli-elia
 
 <h2>PROGETTO FINALE CORSO JAVASCRIPT BASICS - GIOLLI ELIA</h2>
 

@@ -79,11 +79,3 @@ function decremento(){
     count-=1;
     labelDiv.innerHTML = count;
 }); 
-
-
-//aggiunta di altri eventListeners
-
-bottoneDecremento.addEventListener("onmouseover", 
-function mouseOver(){
-    bottoneDecremento.classList.add = ".MouseOverStyle";
-});
